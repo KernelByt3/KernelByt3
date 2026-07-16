@@ -1,16 +1,66 @@
-## Hi there 👋
+# 💫 Привет, я KernelByt3!
 
-<!--
-**KernelByt3/KernelByt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Java Developer | Backend Enthusiast | Code Architect*
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Обо мне
+
+- 🔭 **Сейчас работаю над:** высоконагруженными backend-системами и микросервисами на Java.
+- 🌱 **Изучаю:** Spring Cloud, оптимизацию JVM и паттерны проектирования.
+- 💬 **Спроси меня о:** Java Core, многопоточности, алгоритмах и чистом коде (Clean Code).
+- ⚡ **Фан-факт:** Я превращаю кофеин в чистый байт-код ☕ ➡️ 💻.
+
+---
+
+### 🛠️ Мой стек технологий
+
+| Категория | Технологии |
+|-----------|------------|
+| **Языки** | Java (8–21), SQL, Bash |
+| **Фреймворки** | Spring Boot, Spring Security, Hibernate, JUnit, Mockito |
+| **Базы данных** | PostgreSQL, Redis, MongoDB |
+| **Инструменты** | Git, Maven, Gradle, Docker, IntelliJ IDEA, Linux |
+| **Архитектура** | REST API, Microservices, Clean Architecture, SOLID |
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KernelByt3&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelByt3&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+### 🚀 Избранные проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| 🔐 **Auth-Microservice** | Сервис аутентификации с JWT, Spring Security и кэшированием в Redis. | Java, Spring Boot, Redis |
+| ⚡ **HighLoad-Server** | Кастомный легковесный HTTP-сервер на Java NIO с пулом потоков. | Java Core, NIO, Multithreading |
+| 📊 **Data-Parser** | Многопоточный парсер данных с очередями и обработкой ошибок. | Java, Jsoup, ExecutorService |
+
+---
+
+### 📬 Связаться со мной
+
+<div align="center">
+  <a href="https://t.me/Java_1v" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <em>"Сначала заставь это работать, потом заставь это работать быстро."</em>
+</div>
