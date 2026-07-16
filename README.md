@@ -33,12 +33,14 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 Активность на GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KernelByt3&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelByt3&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
+<!-- Встроенный график коммитов от GitHub (всегда работает) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/KernelByt3" alt="KernelByt3's Github Chart" />
+</p>
+
+> *Чтобы график выше заполнился зелеными квадратами, нужно делать коммиты в публичные репозитории.*
 
 ---
 
@@ -49,6 +51,8 @@
 | 🔐 **Auth-Microservice** | Сервис аутентификации с JWT, Spring Security и кэшированием в Redis. | Java, Spring Boot, Redis |
 | ⚡ **HighLoad-Server** | Кастомный легковесный HTTP-сервер на Java NIO с пулом потоков. | Java Core, NIO, Multithreading |
 | 📊 **Data-Parser** | Многопоточный парсер данных с очередями и обработкой ошибок. | Java, Jsoup, ExecutorService |
+
+*(Примечание: Эти проекты нужно создать или заменить на реальные ссылки)*
 
 ---
 
